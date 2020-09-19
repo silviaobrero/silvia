@@ -40,7 +40,7 @@ css:
 
 <div id="aboutme-section-out" class="page-section">
   <div id="aboutme-section">
-    <div class="section-title">About Dean</div>
+    <div class="section-title">About Silvia</div>
 	<div id="aboutme-list" markdown="1">
 {% for info in site.data.main_info %}
 {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
@@ -54,7 +54,7 @@ css:
 
 <div id="qualifications-out" class="page-section">
   <div id="qualifications">
-    <div class="section-title">Dean's Credentials</div>
+    <div class="section-title">Silvia's Credentials</div>
     <div id="qualifications-list" markdown="1">
 {% for info in site.data.qualifications %}
 <span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>
