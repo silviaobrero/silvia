@@ -26,7 +26,7 @@ I enjoy reading books and studying, and realized at an adult age that teaching p
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I love<strong>travelling</strong> with my family and getting to know new countries and cultures. I am also very fond of gastronomy, cinema, and I enjoy meeting new people.
+I love <strong>travelling</strong> with my family and getting to know new countries and cultures. I am also very fond of gastronomy, cinema, and I enjoy meeting new people.
 </p>
 
 <p class="about-text">
