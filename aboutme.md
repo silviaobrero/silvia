@@ -11,7 +11,7 @@ css: "/assets/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Hi, my name is <strong>Silvia Onbrero</strong>, I am Psychologist and Spanish language teacher available online for classes anywhere in the world, currently living in Dubai, UAE.
+Hi, my name is <strong>Silvia Obrero</strong>, I am Psychologist and Spanish language teacher available online for classes anywhere in the world, currently living in Dubai, UAE.
 </p>
 
 <p class="about-text">
