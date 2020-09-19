@@ -31,7 +31,7 @@ I love <strong>travelling</strong> with my family and getting to know new countr
 
 <p class="about-text">
 <span class="fa fa-file-alt about-icon"></span>
-You can view my complete view my complete <a href="/resume">resume</a> for more information. 
+You can view my complete <a href="/resume">resume</a> for more information. 
 </p>
 
 <p class="about-text">
