@@ -39,9 +39,10 @@ You can view my complete <a href="/resume">resume</a> for more information.
 Grew up in <i>Barcelona, Spain</i>; moved to <i>Cincinnati, OH, USA</i> in 2013 where I did <strong>psychodynamic work with children & adolescents</strong> at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015, and alco completed an internship of <strong>child clinical psychology </strong> at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015. Then I moved to <i>Singapore</i> after becoming mother of a beautiful girl; finally moved to <i>Dubai, UAE</i> in mid-2019, where I am currently living and where I have transitioned my professional carreer to the education field.
 </p>
 
-<p class="about-text">
-    <a href="/contact" class="contact-me-btn actionbtn">
+
+<div style="text-align: center;">
+<a href="/contact" class="contact-me-btn actionbtn">
       <span class="far fa-envelope" aria-hidden="true"></span>
       CONTACT
-    </a>
-</p>
+</a>
+</div>
