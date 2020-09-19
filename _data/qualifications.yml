@@ -1,14 +1,12 @@
 - icon: fas fa-graduation-cap
-  content: "MSc in Bioinformatics (UBC) &bull; Bachelor of Computer Science (University of Waterloo)"
+  content: "Currently working on my M.Ed. Teaching Spanish as Foreign Language at Rovira i Virgili University in Spain"
+- icon: fas fa-graduation-cap  
+  content: "B.Sc. in Psychology (Open University of Catalonia - UOC: Universitat Oberta de Catalunya -) in 2019"
+- icon: fas fa-graduation-cap  
+  content: "M.Sc. in Human Resources Management (ESERP Business School, Barcelona) in 2011"
+- icon: fas fa-graduation-cap  
+  content: "Specialized in Personnel Management during my B.Sc. in Business Administration from the Open University of Catalonia in 2009"
 - icon: fas fa-users
-  content: "Taught the 'Intermediate Shiny' 2-day workshop at RStudio Conference"
-- icon: fas fa-podcast
-  content: "Interviewed for [Episode 16](https://www.r-podcast.org/posts/the-r-podcast-episode-16-interview-with-dean-attali.html) and [Episode 19](https://r-podcast.org/episode/019-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali/) of The R-Podcast"
-- icon: fas fa-pencil-alt
-  content: "Wrote [an article](https://shiny.rstudio.com/articles/persistent-data-storage.html) for RStudio that is hosted on Shiny's official webpage"
+  content: "Psychodynamic work with children & adolescents at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015"
 - icon: fas fa-star
-  content: "Several apps featured on RStudio's official [Shiny User Showcase](https://www.rstudio.com/products/shiny/shiny-user-showcase/)"
-- icon: fab fa-github
-  content: "Often in the top 5 [Trending R Developers](https://github.com/trending/developers/r?since=monthly) on GitHub"
-- icon: fas fa-book 
-  content: "Official book reviewer of the book [\"Learning Shiny\"](https://www.packtpub.com/application-development/learning-shiny) (not an endorsement)"
+  content: "Internship of child clinical psychology at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015"
