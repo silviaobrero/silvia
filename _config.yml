@@ -15,9 +15,9 @@ author: © Silvia Obrero
 navbar-links:
   About Me: "aboutme"
   Contact Me: "contact"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
   Resume | CV: "resume/Silvia_Obrero_Resume.pdf"
   Home: "https://silviaobrero.github.io"
 
