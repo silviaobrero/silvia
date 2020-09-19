@@ -19,7 +19,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 <p>You can <a href="mailto:silvia.obrero@gmail.com?subject=Hello from silviaobrero.github.io">email me</a> or find me <a href="https://twitter.com/Silvia_obrero">on Twitter</a> if you want to get in touch.</p>
 <p>My fulltime job is consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects, your Shiny needs, or need any paid help.</p>
-<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/attalitech/meeting">click here to schedule a meeting</a> based on your availability.</p>
+<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/silviaobrero/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
 <form action="https://formspree.io/silvia.obrero@gmail.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
