@@ -11,44 +11,33 @@ css: "/assets/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
-developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">Wish.com</a>,
-<a href="https://web.archive.org/web/20121223025414/https://www.makeupbee.com/looks.php" target="_blank">MakeupBee.com</a>,
-<a href="http://glittr.com" target="_blank">glittr.com</a>,
-<a href="https://web.archive.org/web/20120309093005/https://www.jauntr.com/" target="_blank">jauntr.com</a>).
+Hi, my name is <strong>Silvia Onbrero</strong>, I am Psychologist and Spanish language teacher available online for classes anywhere in the world, currently living in Dubai, UAE.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my MSc in <strong>Bioinformatics</strong> from the University of British Columbia (supervised by the amazing
-<a href="https://twitter.com/JennyBryan" target="_blank">Jenny Bryan</a>) and my Bachelor of <strong>Computer Science</strong> from the
-University of Waterloo, Canada. My masters thesis project involved
-<a href="https://github.com/daattali/ddpcr" target="_blank">developing computational methods to automatically analyze
-droplet digital PCR</a> data.
+I obtained my <strong>Bachelor of Science</strong> degree in Psychology from the Open University of Catalonia (UOC: Universitat Oberta de Catalunya) in 2019. I also hold a <strong>Masters</strong> degree in Human Resources Management that I obtained from ESERP Business School in Barcelona in 2011, and I specialized in Personnel Management during my <strong>Bachelor of Science</strong> degree in Business Administration from the Open University of Catalonia in 2009. I am currently pursuing a <strong>Master of Science</strong> degree in Rovira i Virgili University in Spain.
 </p>
 
 <p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out <a href="/projects">my projects</a>. In the past several years I've become an experienced R useR and an expert in R-Shiny.
+<span class="fa fa-book about-icon"></span>
+I enjoy reading books and studying, and realized at an adult age that teaching people of all ages is my passion. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I'm addicted to soccer, <strong>travelling</strong> at any given (and non-given) moment, getting into philosophical debates,
-and meeting new people :) 
+I love<strong>travelling</strong> with my family and getting to know new countries and cultures. I am also very fond of gastronomy, cinema, and I enjoy meeting new people.
 </p>
 
 <p class="about-text">
 <span class="fa fa-file-alt about-icon"></span>
-The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my work, but you can also view my (somewhat outdated) <a href="/resume">resume</a>. 
+You can view my complete view my complete <a href="/resume">resume</a> for more information. 
 </p>
 
 <p class="about-text">
 <span class="fa fa-globe-americas about-icon"></span>
-Grew up in <i>Tel Aviv, Israel</i>; moved to <i>Toronto, Canada</i> during my teens; worked in <i>San Francisco</i> after undergrad; crossed the border again to <i>Vancouver, Canada</i> for grad school; spent many months in other countries backpacking; returned to <i>Toronto</i> in 2017.
+Grew up in <i>Barcelona, Spain</i>; moved to <i>Cincinnati, OH, USA</i> in 2013 where I did <strong>psychodynamic work with children & adolescents</strong> at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015, and alco completed an internship of <strong>child clinical psychology </strong> at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015. Then I moved to <i>Singapore</i> after becoming mother of a beautiful girl; finally moved to <i>Dubai, UAE</i> in mid-2019, where I am currently living and where I have transitioned my professional carreer to the education field.
 </p>
-
-<p>I also have <a href="https://deanat78.wordpress.com/">an old blog</a>, mostly from high school and some old travelling trips, that I'll leave here just because I want to have a reference to it somewhere.</p>
 
 </div>
 
@@ -82,12 +71,10 @@ I will be away until Feb 6, with very limited time to work. My responses will be
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
   
-  <div style="font-size: 12px; margin: -10px 0 10px;">Please do not use this form to send me full code samples or ask me to fix an app for free. Due to the volume of questions I receive I unfortuantely cannot offer free support.</div>
+  <div style="font-size: 12px; margin: -10px 0 10px;">You may use this form to enquire about my services and any other question you may have.</div>
   
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
-
-<p id="address">If you'd like to get in touch and are very old-school, you can send a letter to:<br/>102 Beverley Glen Blvd, Thornhill, ON L4J7V2, Canada.</p>
 
 </div>
 
@@ -95,17 +82,11 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 <div id="feed-meeee">
   <br/>
-  <h1>Help feed me & my coding obsession</h1>
-  <p>If you want to show your support for any of the <a href="/projects">open source projects</a> I devote my time to, here's a PayPal one-time Donate button that you may click :) You can also choose to become an official sponsor for my long-term development of open-source projects (sponsoring me comes with some <a href="https://github.com/sponsors/daattali">additional perks for you</a>).</p>
+  <h1>Help feed me & my teaching obsession</h1>
+  <p>If you want to show your support for my work, here's a PayPal one-time Donate button that you may click :)</p>
   <p align="center">
-    <a style="display: inline-block;" href="https://paypal.me/daattali">
-      <img height="40" src="https://camo.githubusercontent.com/0e9e5cac101f7093336b4589c380ab5dcfdcbab0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f74776f6c66736f6e2f70617970616c2d6769746875622d627574746f6e40312e302e302f646973742f627574746f6e2e737667" />
-    </a>
-    <a style="display: inline-block; margin-left: 10px;" href="https://github.com/sponsors/daattali">
-      <img height="40" src="https://i.imgur.com/034B8vq.png" />
-    </a>
+    <a style="display: inline-block;" href="https://paypal.me/silviaobrero">
+      <img height="40" src="https://camo.githubusercontent.com/0e9e5cac101f7093336b4589c380ab5dcfdcbab0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f74776f6c66736f6e2f70617970616c2d6769746875622d627574746f6e40312e302e302f646973742f627574746f6e2e737667" /></a>
   </p>
-  
-  
-  <p>My open-source projects started as a fun hobby, but as my tools and content got more popular, it has turned into a full-time job commitment (often taking up 20-40 hours per week). Except with 0 pay and no employer benefits :) My goal is to be able to focus as much as I can on <strong>open-source work that benefits the entire community</strong> rather than individual clients, and I can only reach that goal by getting supported for my hard work.</p>
+ <br/>
 </div>
