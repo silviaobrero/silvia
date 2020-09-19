@@ -27,7 +27,7 @@ css:
 	<div id="services-list">
 	  <span class="service" markdown="1">Teaching Spanish Language to people of ages and levels</span>
 	  <span class="service" markdown="1">Offering reinforcement classess for your kids Spanish school lessons</span>
-	  <span class="service" markdown="1">One on one classess, face to face in Dubai, UAE</span>
+	  <span class="service" markdown="1">In person, one on one and group classess in Dubai, UAE</span>
 	  <span class="service" markdown="1">Online classess for international students around the world</span>
 	</div>
 
