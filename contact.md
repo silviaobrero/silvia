@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact me
-subtitle: "Spanish teacher available online for classess anywhere in the world"
+subtitle: "Spanish teacher available online for classes anywhere in the world"
 share-title: "Silvia Obrero | Contact me"
 share-description: "Psychologist and Spanish teacher available online for classes anywhere in the world"
 css: "/assets/css/aboutme.css"
@@ -18,7 +18,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 
 <p>You can <a href="mailto:silvia.obrero@gmail.com?subject=Hello from silviaobrero.github.io">email me</a> or find me <a href="https://twitter.com/Silvia_obrero">on Twitter</a> if you want to get in touch.</p>
-<p>My fulltime job is consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects, your Shiny needs, or need any paid help.</p>
+
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/silviaobrero/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
 <form action="https://formspree.io/silvia.obrero@gmail.com" method="POST" class="form" id="contact-form">
