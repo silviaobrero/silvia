@@ -1,11 +1,9 @@
 ---
 layout: base
-title: Silvia Obrero
+title: Silvia Obrero - Spanish Teacher
 subtitle: Let me teach you Spanish!
 meta-title: "Hi, I'm Silvia"
 use-site-title: true
-cover-img:
-  - "/assets/img/chalkboard.jpg"
 css:
   - /assets/css/index.css
 ---
