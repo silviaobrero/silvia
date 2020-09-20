@@ -10,7 +10,6 @@ css:
   - /assets/css/index.css
 ---
 
-
 <div id="header" markdown="1">
 
 # Silvia Obrero {#title}
