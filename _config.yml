@@ -116,7 +116,7 @@ feed_show_tags: true
 #colors actuals
 navbar-col: "#cf91c8"
 navbar-text-col: "#700764"
-navbar-border-col: "995d92"
+navbar-border-col: "#995d92"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
