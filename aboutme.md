@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "Spanish teacher available online for classess anywhere in the world"
+subtitle: "Spanish teacher available online for classes anywhere in the world"
 share-title: "Silvia Obrero | About me"
 share-description: "Psychologist and Spanish teacher available online for classes anywhere in the world"
 css: "/assets/css/aboutme.css"
@@ -16,7 +16,7 @@ Hi, my name is <strong>Silvia Obrero</strong>, I am Psychologist and Spanish lan
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Science</strong> degree in Psychology from the Open University of Catalonia (UOC: Universitat Oberta de Catalunya) in 2019. I also hold a <strong>Masters</strong> degree in Human Resources Management that I obtained from ESERP Business School in Barcelona in 2011, and I apecialized in Personnel Management during my <strong>Bachelor of Science</strong> degree in Business Administration from the Open University of Catalonia in 2009. I am currently pursuing a <strong>Master of Science</strong> degree in Rovira i Virgili University in Spain.
+I obtained my <strong>Bachelor of Science</strong> degree in Psychology from the Open University of Catalonia (UOC: Universitat Oberta de Catalunya) in 2019. I also hold a <strong>Master's</strong> degree in Human Resources Management that I obtained from ESERP Business School in Barcelona in 2011, and I specialized in Personnel Management during my <strong>Bachelor of Science</strong> degree in Business Administration from the Open University of Catalonia in 2009. I am currently pursuing a <strong>Master of Science</strong> degree in Rovira i Virgili University in Spain.
 </p>
 
 <p class="about-text">
@@ -30,13 +30,8 @@ I love <strong>travelling</strong> with my family and getting to know new countr
 </p>
 
 <p class="about-text">
-<span class="fa fa-file-alt about-icon"></span>
-You can view my complete <a href="/resume">resume</a> for more information. 
-</p>
-
-<p class="about-text">
 <span class="fa fa-globe-americas about-icon"></span>
-Grew up in <i>Barcelona, Spain</i>; moved to <i>Cincinnati, OH, USA</i> in 2013 where I did <strong>psychodynamic work with children & adolescents</strong> at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015, and also completed an internship of <strong>child clinical psychology </strong> at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015. Then I moved to <i>Singapore</i> after becoming mother of a beautiful girl; finally moved to <i>Dubai, UAE</i> in mid-2019, where I am currently living and where I have transitioned my professional carreer to the education field.
+Grew up in <i>Barcelona, Spain</i>; moved to <i>Cincinnati, OH, USA</i> in 2013 where I did <strong>psychodynamic work with children & adolescents</strong> at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015, and also completed an internship of <strong>child clinical psychology </strong> at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015. Then I moved to <i>Singapore</i> after becoming mother of a beautiful girl; finally moved to <i>Dubai, UAE</i> in mid-2019, where I am currently living and where I have transitioned my professional career to the education field.
 </p>
 
 
