@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "Spanish teacher available online for classes anywhere in the world"
+subtitle: "Spanish teacher available for online classes anywhere in the world"
 share-title: "Silvia Obrero | About me"
 share-description: "Psychologist and Spanish teacher available online for classes anywhere in the world"
 css: "/assets/css/aboutme.css"
