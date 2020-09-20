@@ -19,7 +19,16 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 <p>You can <a href="mailto:silvia.obrero@gmail.com?subject=Hello from silviaobrero.github.io">email me</a> or find me <a href="https://twitter.com/Silvia_obrero">on Twitter</a> if you want to get in touch.</p>
 
-<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/silviaobrero/meeting">click here to schedule a meeting</a> based on your availability.</p>
+<p>Note that before starting any classes, a (virtual) meeting is usually recommended to discuss your needs. If you'd like to set up a meeting with me, click the link below to schedule an online meeting based on your availability:</p>
+
+<div style="text-align: center;">
+<a href="https://calendly.com/silviaobrero/meeting" class="schedule-btn actionbtn">
+  <span class="far fa-calendar-check" aria-hidden="true"></span>
+  SCHEDULE MEETING
+</a>
+</div>
+
+
 
 <form action="https://formspree.io/silvia.obrero@gmail.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
