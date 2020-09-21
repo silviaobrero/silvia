@@ -31,9 +31,8 @@ I love <strong>travelling</strong> with my family and getting to know new countr
 
 <p class="about-text">
 <span class="fa fa-globe-americas about-icon"></span>
-Grew up in <i><strong>Barcelona</strong>, Spain</i>; moved to <i>Cincinnati, OH, USA</i> in 2013 where I did <strong>psychodynamic work with children & adolescents</strong> at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015, and also completed an internship of <strong>child clinical psychology </strong> at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015. Then I moved to <i>Singapore</i> after becoming mother of a beautiful girl; finally moved to <i>Dubai, UAE</i> in mid-2019, where I am currently living and where I have transitioned my professional career to the <strong>education field<strong>.
+Grew up in <i><strong>Barcelona</strong>, Spain</i>; moved to <i>Cincinnati, OH, USA</i> in 2013 where I did <strong>psychodynamic work with children & adolescents</strong> at the Cincinnati Psychoanalytic Institute in Cincinnati, Ohio in 2014-2015, and also completed an internship of <strong>child clinical psychology</strong> at the Psychiatry & Behavioral Neuroscience department of the University of Cincinnati, Ohio in 2015. Then I moved to <i>Singapore</i> after becoming mother of a beautiful girl; finally moved to <i>Dubai, UAE</i> in mid-2019, where I am currently living and where I have transitioned my professional career to the <strong>education field<strong>.
 </p>
-
 
 <div style="text-align: center;">
 <a href="/contact" class="contact-me-btn actionbtn">
