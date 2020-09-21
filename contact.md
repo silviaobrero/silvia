@@ -7,7 +7,6 @@ share-description: "Psychologist and Spanish teacher available online for classe
 css: "/assets/css/aboutme.css"
 ---
 
-<br/>
 
 <div id="contactme-section">
 <h1 id="contact">Contact</h1>
