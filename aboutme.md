@@ -16,7 +16,7 @@ Hi, my name is <strong>Silvia Obrero</strong>, I am Psychologist and Spanish lan
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Science</strong> degree in Psychology from the Open University of Catalonia (UOC: Universitat Oberta de Catalunya) in 2019. I also hold a <strong>Master's</strong> degree in Human Resources Management that I obtained from ESERP Business School in Barcelona in 2011, and I specialized in Personnel Management during my <strong>Bachelor of Science</strong> degree in Business Administration from the Open University of Catalonia in 2009. I am currently pursuing a <strong>Master's</strong> degree in Teaching Spanish as Foreign Language at Rovira i Virgili University in Spain.
+I obtained my <strong>Bachelor of Science</strong> degree in <strong>Psychology</strong> from the Open University of Catalonia (UOC: Universitat Oberta de Catalunya) in 2019. I also hold a <strong>Master's</strong> degree in <strong>Human Resources Management</strong> that I obtained from ESERP Business School in Barcelona in 2011, and I specialized in Personnel Management during my <strong>Bachelor of Science</strong> degree in <strong>Business Administration</strong> from the Open University of Catalonia in 2009. I am currently pursuing a <strong>Master's</strong> degree in Teaching Spanish as Foreign Language at Rovira i Virgili University in Spain.
 </p>
 
 <p class="about-text">
