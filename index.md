@@ -54,7 +54,7 @@ css:
     <div class="section-title">Silvia's Credentials</div>
     <div id="qualifications-list" markdown="1">
 {% for info in site.data.qualifications %}
-<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>
+{% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
 <span class="about-content">{{ info.content }}</span>
 {: .about-text }
 {% endfor %}
