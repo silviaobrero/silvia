@@ -18,7 +18,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 -->
 
 
-<p>You can <a href="mailto:silvia.obrero@gmail.com?subject=Info Spanish Classes">email me</a> or find me <a href="https://twitter.com/Silvia_obrero">on Twitter</a> if you want to get in touch.</p>
+<p>You can <a href="mailto:info@silviaobrero.com?subject=Info Spanish Classes">email me</a> or find me <a href="https://twitter.com/Silvia_obrero">on Twitter</a> if you want to get in touch.</p>
 
 <p>Note that before starting any classes, a (virtual) meeting is usually recommended to discuss your needs. If you'd like to set up a meeting with me, click the link below to schedule an online meeting based on your availability.</p>
 
@@ -29,7 +29,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 </a>
 </div>
 
-<form action="https://formspree.io/silvia.obrero@gmail.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/info@silviaobrero.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
   <div class="row">
     <div class="col-6">
@@ -39,7 +39,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
       <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
     </div>
   </div>
-  <input type="hidden" name="_subject" value="New submission from silviaobrero.github.io">
+  <input type="hidden" name="_subject" value="New submission from silviaobrero.com">
   <textarea type="text" name="content" class="form-control form-control-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
