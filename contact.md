@@ -18,7 +18,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 -->
 
 
-<p>You can <a href="mailto:info@silviaobrero.com?subject=Info Spanish Classes">email me</a> or find me <a href="https://twitter.com/Silvia_obrero">on Twitter</a> if you want to get in touch.</p>
+<p>You can <a href="mailto:info@silviaobrero.com?subject=Info Spanish Classes">email me</a> if you want to get in touch.</p>
 
 <p>Note that before starting any classes, a (virtual) meeting is usually recommended to discuss your needs. If you'd like to set up a meeting with me, click the link below to schedule an online meeting based on your availability.</p>
 
